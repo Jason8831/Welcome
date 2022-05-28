@@ -1,0 +1,3 @@
+firstJoin: "§f[§l§a+§r§f] {player} viens de rejoindre pour la permière fois le serveur"
+Join: "§f[§l§a+§r§f] {player}"
+Quit: "§f[§l§c-§r§f] {player}"
